@@ -1,0 +1,21 @@
+function cookGitheri(){
+      get maize()
+      get beans()
+      get firewood()
+      have pot()
+      get water()
+ }
+function cookPotatoes(){
+      get potatoes()
+      get water()
+      peel potatoes()
+      get sufuria()
+      get onion()
+}
+serveLunch(){
+      var githeri = cookGitheri()
+      var potatoes = cookPotatoes()
+      var plate = Githeri $$ potatoes()
+      return plate 
+}  
+serveLunch
