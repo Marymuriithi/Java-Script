@@ -1,3 +1,2 @@
 # Java-Script
-Java Script.js
-image.jp
+assignment 1
